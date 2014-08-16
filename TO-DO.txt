@@ -1,0 +1,6 @@
+To do:
+
+1. Program the menu items.
+2. Add a stopwatch on the UI.
+3. Button to retake test without exiting the application.
+4. Improve the UI.
